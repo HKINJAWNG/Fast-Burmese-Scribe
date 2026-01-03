@@ -1,0 +1,7 @@
+{
+  "name": "Burmese Voice Scribe",
+  "description": "A real-time Burmese voice-to-text transcription tool using Gemini Live API for high-accuracy Burmese speech recognition.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
